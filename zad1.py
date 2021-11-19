@@ -2,7 +2,7 @@ import doctest
 
 class FizzBuzz:
     def game(self, num): 
-        """Takes a number (type must be int or flot, in other case function returns
+        """Takes a number (type must be int or float, in other case function returns
         an Exception) and returns "Fizz" if a number is divisible by 3, "Buzz" if 
         is divisible by 5, and "FizzBuzz" if is divisible by both 3 and 5 If it is not 
         divisible by 3, 5 or 15, it returns given number.
